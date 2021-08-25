@@ -7,3 +7,5 @@ export class AppController {
     return 'Welcom to my Movie Api';
   }
 }
+
+console.log("hello");
